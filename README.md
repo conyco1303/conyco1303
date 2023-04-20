@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Santander Bank
 - 🌱 I’m currently learning Data Sciences
-- 👯 I’m looking to collaborate on Data Analysti 
+- 👯 I’m looking to collaborate on Data Analytics
 - 🤔 I’m looking for help with Phyton
 - 💬 Ask me about Coffee
 - 📫 How to reach me: cono.depaolaprato@gmail.com
