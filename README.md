@@ -6,7 +6,7 @@
 - 💬 Ask me about Coffee
 - 📫 How to reach me: cono.depaolaprato@gmail.com
 - 😄 Pronouns: Conyco
-- ⚡ Fun fact: From Venezuela 
+- ⚡ Fun fact: It could be an ice cream or a 3d figure
 <!--
 **conyco1303/conyco1303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
