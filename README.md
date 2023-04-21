@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Santander Bank
+- 🔭 I’m currently working on Work Coffee Santander Bank
 - 🌱 I’m currently learning Data Sciences
 - 👯 I’m looking to collaborate on Data Analytics
 - 🤔 I’m looking for help with Phyton
-- 💬 Ask me about Coffee
+- 💬 Ask me about Specialty Coffee
 - 📫 How to reach me: cono.depaolaprato@gmail.com
 - 😄 Pronouns: Conyco
 - ⚡ Fun fact: It could be an ice cream or a 3d figure
